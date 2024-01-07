@@ -14,7 +14,7 @@ random intervals.
 
 ## Wiring
 
-![Breadboard Wiring](laserx-shoot-back_bb.svg)
+![Breadboard Wiring](laserx-shoot-back_bb.png)
 
 Alternatively, see [Fritzing file](laserx-shoot-back.fzz).
 
